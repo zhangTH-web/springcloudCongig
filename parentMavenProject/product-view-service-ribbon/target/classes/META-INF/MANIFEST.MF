@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: product-view-service-ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.how2j
+Build-Jdk: 1.7.0_80
+Built-By: administer
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/parentMavenProject/product-view-service-ribbon
+

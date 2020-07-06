@@ -1,0 +1,11 @@
+备注：
+  Feign 是什么呢？ Feign 是对 Ribbon的封装，使用注解的方式，调用起来更简单。。。 也是主流的方式~。
+  
+     Feign 
+        1.多了相应的jar
+        2. 启动类， 注解多了个 @EnableFeignClients， 表示用于使用 Feign 方式。 
+     
+     
+   配置客户端注意一点
+      gitHub里的配置文件  product-view-service-feign-dev.properties，
+      其中【product-view-service-feign】需与pom文件里的id名称<artifactId>product-view-service-feign</artifactId>保持一致；暨gitHub里的配置文件命名为【”项目Id名“ + “-dev”  +  “.properties”】  
